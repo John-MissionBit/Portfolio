@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(235, 186, 122)
+}
+p {
+    text-align: center;
+    font-size: 40px; 
+    font-family: "Helvetica"
+}
+ul{
+    text-align: left; 
+    font-size: 30px;
+    font-family: "Helvetica"
+}
+.pictures{
+    margin: 50px 90px;
+    position: relative; 
+    width: 200px;
+    height: 200px;
+}
