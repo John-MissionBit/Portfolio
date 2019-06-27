@@ -13,7 +13,8 @@ var hint = "Guess my number. It should be between 1 and 20.";
 while (numTurns > 0) { 
 
 // Use the prompt method to ask the user for input. Use this to also display the "hint to the user"
-var guess = prompt(hint);
+var guess = prompt(hint + " You have " + numTurns + " left.");
+console.log(guess);
 // Part 2: Also display how many tries the user has left
 
 
@@ -22,7 +23,7 @@ var guess = prompt(hint);
 
 // Use an if statement to see if the player's guess is equal to the random one generated
 
-if ( == random){
+if (guess == random){
 
 }
 // Use an else statement to notify the user if they guessed incorrectly
