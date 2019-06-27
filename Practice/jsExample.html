@@ -45,8 +45,14 @@
     console.log("our while loop");
 
     var i = 1;
-    while(i < 101) {
-        console.log(i);
+    var flag = true;
+    while(flag == true) {
+        console.log("This is true!");
+        var stop = prompt("do you want to stop? yes or no");
+        if (stop == "yes"){
+          flag = false;
+        }
+        
         //increments i by 1
     }
 
