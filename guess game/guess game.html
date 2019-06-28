@@ -26,12 +26,13 @@ guess = (Number(guess));
 if (guess == random){
    document.write ("Congratilations! You found the right number! :)");
    numTurns = 0;
-
 }
 // Use an else statement to notify the user if they guessed incorrectly
 else {
    if (guess < random)
    hint = "That's too small!";
+   if (guess > random)
+   hint = "That's too big!"
 }
 // Part 2: Inside the else statement, tell the player whether their guess is too small or too big, Hint: you'll need to use an if statement
 
