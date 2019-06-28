@@ -24,7 +24,7 @@ guess = Number(guess);
 // Use an if statement to see if the player's guess is equal to the random one generated
 
 if (guess == random){
-   document.write ("Congratulations! You found the right number! :)");
+   document.write("Congratulations! You found the right number! :)");
    numTurns = 0;
 }
 // Use an else statement to notify the user if they guessed incorrectly
@@ -34,7 +34,7 @@ else {
       }
    
        if (guess > random){
-       hint = "That's too big!";
+         hint = "That's too big!";
       }  
    }
 // Part 2: Inside the else statement, tell the player whether their guess is too small or too big, Hint: you'll need to use an if statement
@@ -43,8 +43,8 @@ else {
 
 
 // Part 2: If the user runs out of guesses, tell them what the correct number is.  Hint: What variable did we use to define it?
-if (numTurns = 0) {
-   document.write("Sorry. The correct number was " + random + ". Better luck next time.")
+if (numTurns == 0) {
+   document.write("Sorry. The correct number was " + random + ". Better luck next time.");
 }
 numTurns--;
 }
