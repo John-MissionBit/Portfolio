@@ -40,5 +40,5 @@ document.querySelector('#change-me-button').onclick = function() {
   
   // try implementing this last one
   document.querySelector('#delete-me-button').onclick = function() {
-      
+    
   }
