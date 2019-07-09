@@ -5,3 +5,12 @@ h1{
     font-family:'Impact';
     font-size: 100px;
 }
+p{
+    font-family: 'Helvetica';
+    font-size: 50px;
+}
+.pictures{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+}
