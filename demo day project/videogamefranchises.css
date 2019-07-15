@@ -10,9 +10,60 @@ p{
     font-size: 50px;
 }
 .pictures{
-    width: 200px;
-    height: 200px;
     margin-right: 20px;
+    margin-left: 20px;
+}
+#Mario{
+    width: 256px;
+    height: 120px;
+}
+#Call_of_Duty{
+    width: 300px;
+    height: 65px;
+}
+#GTA{
+    width: 216px;
+    height: 173.5px;
+}
+#Minecraft{
+    width: 256px;
+    height: 43.5px;
+}
+#Tetris{
+    width: 267.75px;
+    height: 214.75px;
+}
+#Final_Fantasy{
+    width: 400;
+    height: 85.5px;
+}
+#Zelda{
+    width: 295.5px;
+    height: 120.5px;
+}
+#Smash{
+    width: 282.5px;
+    height: 88px;
+}
+#Crash{
+    width: 278px;
+    height: 89.5px;
+}
+#Battlefield{
+    width: 399.5px;
+    height: 79px;
+}
+#Mega_Man{
+    width: 380px;
+    height: 97px;
+}
+#Kirby{
+    width: 236.5px;
+    height: 105.5px;
+}
+#Mortal_Kombat{
+    width: 150px;
+    height: 151px;
 }
 nav{
     background-color: rgb(214, 80, 39)
