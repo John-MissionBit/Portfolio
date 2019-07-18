@@ -18,14 +18,11 @@ h1{
 nav{
     background-color: rgb(214, 80, 39)
 }
-li{
-    border: 2px solid;
-}
 .navbar-aboutme{
     border: 2px solid rgb(51, 38, 51);
 }
 .liBorder{
-    color: black;
+    border: 2px solid black;
 }
 
 .pBasic{
@@ -42,4 +39,24 @@ li{
 
 .history{
     font-size: 40px
+}
+
+.pHistory{
+    font-family: 'Helvetica';
+    font-size: 30px;
+    margin: 30px;
+}
+.pNotBad{
+    font-family: 'Helvetica';
+    font-size: 30px;
+    text-indent: 40px;
+    margin: 30px;
+}
+img{
+    height: 400px;
+}
+
+.pAboutMe{
+    font-family: 'Helvetica';
+    font-size: 50px;
 }
