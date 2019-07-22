@@ -37,15 +37,10 @@ nav{
     margin-right: auto;
 }
 
-.history{
-    font-size: 40px
+.pHistory{
+    font-size: 40px;
 }
 
-.pHistory{
-    font-family: 'Helvetica';
-    font-size: 30px;
-    margin: 30px;
-}
 .pNotBad{
     font-family: 'Helvetica';
     font-size: 30px;
