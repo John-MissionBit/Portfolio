@@ -76,3 +76,6 @@ li{
 .navbar-aboutme{
     border: 2px solid rgb(51, 38, 51);
 }
+.liBorder a:hover{
+    background-color: rgb(223, 101, 24);
+}
