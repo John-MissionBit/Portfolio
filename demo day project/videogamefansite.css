@@ -21,10 +21,6 @@ nav{
 .navbar-aboutme{
     border: 2px solid rgb(51, 38, 51);
 }
-.liBorder{
-    border: 2px solid black;
-}
-
 .pBasic{
     font-family: 'Helvetica';
     font-size: 30px;
