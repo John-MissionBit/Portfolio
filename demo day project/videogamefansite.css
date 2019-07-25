@@ -67,3 +67,6 @@ h2{
     font-family: 'Georgia', 'serif';
     
 }
+.liBorder:hover{
+    background-color: rgb(210, 200, 100);
+}
